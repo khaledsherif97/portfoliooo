@@ -76,7 +76,7 @@ const Projects = () => {
     arrows:false,
   };
   return (
-    <div className=' col-md-8  my-2'><div className=' bg-white rounded-3 px-5 py-2 '>
+    <div className=' col-md-8 '><div className=' bg-white rounded-3 px-5 py-2 '>
     <h3>Projects:</h3>
 
     <Slider {...settings}>
