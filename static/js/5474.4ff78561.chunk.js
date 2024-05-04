@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfoliooo=self.webpackChunkportfoliooo||[]).push([[5474],{5474:(o,t,e)=>{e.d(t,{SquareDrawer:()=>s});const r=Math.sqrt(2);class s{draw(o){!function(o){const{context:t,radius:e}=o,s=e/r,c=2*s;t.rect(-s,-s,c,c)}(o)}getSidesCount(){return 4}}}}]);
+//# sourceMappingURL=5474.4ff78561.chunk.js.map

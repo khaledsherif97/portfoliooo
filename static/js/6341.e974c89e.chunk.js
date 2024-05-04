@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfoliooo=self.webpackChunkportfoliooo||[]).push([[6341],{6341:(a,o,t)=>{async function e(a){let o=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];const{StarDrawer:e}=await t.e(7604).then(t.bind(t,7604));await a.addShape("star",new e,o)}t.d(o,{loadStarShape:()=>e})}}]);
+//# sourceMappingURL=6341.e974c89e.chunk.js.map
