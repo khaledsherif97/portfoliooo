@@ -1,10 +1,18 @@
 import React from 'react'
 import proImg from '../../Assets/imges/IMG-20220329-WA0017.jpg'
+import { Fade } from 'animation-react'
 
 const InfoNav = () => {
   return (
     <>
-    <div className=' col-md-3 bg-white rounded-3 mb-3'>
+    <div className=' col-md-3 z-1 bg-white bg-opacity-75 border border-3 border-primary  rounded-3 mb-3'>
+    <Fade 
+        type="left"
+        translate="200px"
+        delay={0.5}
+        duration={0.5}
+        isRepeat={false}
+> 
     <div className='w-50 mx-auto position-relative'>
       <img src={proImg} className='w-100 border-2 border-primary  mt-2 rounded-3 img-thumbnail '/>
    
@@ -31,6 +39,7 @@ const InfoNav = () => {
     <button className=' btn btn-primary rounded-3 mb-2'> Download CV</button></a>
     </div>
     </div>
+</Fade>
     </div>
     </>
   )

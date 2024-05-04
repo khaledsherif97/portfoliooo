@@ -6,6 +6,11 @@ import Resmue from './components/Resmue/Resmue';
 import Projects from './components/Projects/Projects';
 import NotFound from './components/NotFound/NotFound';
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
+import ParticlesComponent from './components/particles';
+
+
+
+
 
 function App() {
   let routes = createBrowserRouter([
@@ -25,6 +30,7 @@ function App() {
   ])
   return (
     <>
+    <ParticlesComponent id="bte5"/>
     <RouterProvider router={routes} />
     </>
   );

@@ -65,6 +65,7 @@ import dd4 from "../../Assets/imges/dev/d4.png"
 import dd5 from "../../Assets/imges/dev/d5.png"
 import dd6 from "../../Assets/imges/dev/d6.png"
 import dd7 from "../../Assets/imges/dev/d7.png"
+import { Fade, Text } from 'animation-react'
 
 const Projects = () => {
   let settings = {
@@ -76,9 +77,24 @@ const Projects = () => {
     arrows:false,
   };
   return (
-    <div className=' col-md-8 '><div className=' bg-white rounded-3 px-5 py-2 '>
-    <h3>Projects:</h3>
-
+    <div className=' col-md-8 z-1 '>
+      
+      <div className=' bg-white bg-opacity-75 border border-3 border-primary  rounded-3 px-4 py-2 '>
+      <Fade 
+        type="bottom"
+        translate="200px"
+        delay={0.5}
+        duration={0.5}
+        isRepeat={false}
+      > 
+    <h3><Text 
+        value="Projects :"
+        type="drop"
+        delay={0.5}
+        duration={0.5}
+        isRepeat={false}
+        option={""}
+      /></h3>
     <Slider {...settings}>
       {/*Shifoo*/}
       <div>
@@ -474,7 +490,7 @@ const Projects = () => {
    
    
    
-   
+  </Fade>
     
   </div></div>
   )
