@@ -14,7 +14,7 @@ import b1 from "../../Assets/imges/book1.png"
 import b2 from "../../Assets/imges/book2.png"
 import b3 from "../../Assets/imges/book3.png"
 
-import c1 from '../../Assets/imges/chef/chef1.png'
+import c1 from '../../Assets/imges/chef/shefooo.png'
 import c2 from '../../Assets/imges/chef/chef2.png'
 import c3 from '../../Assets/imges/chef/chef3.png'
 import c4 from '../../Assets/imges/chef/chef4.png'
