@@ -87,8 +87,8 @@ const Projects = () => {
         duration={0.5}
         isRepeat={false}
       > 
-    <h3><Text 
-        value="Projects :"
+    <h3 className=' text-center text-primary fw-semibold fs-2'><Text 
+        value="Projects "
         type="drop"
         delay={0.5}
         duration={0.5}

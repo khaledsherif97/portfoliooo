@@ -12,8 +12,8 @@ const About = () => {
         duration={0.5}
         isRepeat={false}
 > 
-      <h3><Text 
-        value="Summary about me :"
+      <h3 className=' text-center text-primary fw-semibold fs-2'><Text 
+        value="Summary about me "
         type="drop"
         delay={0.5}
         duration={0.5}
@@ -37,27 +37,15 @@ const About = () => {
       <h3>Education :</h3>
       <p> Bachelor’s Degree in Science 
       Alexandria University, Sep 2020 </p>
-      <h3>Skills :</h3>
-      <div className="row bg-body-secondary rounded-3 p-2">
-      <div className="col-md-6">
-        <h6>Technical skills :</h6>
-        <p><i class="fa-brands fa-html5"></i> HTML5</p>
-        <p><i class="fa-brands fa-css3"></i> CSS3</p>
-        <p> <i class="fa-brands fa-bootstrap"></i> Bootstrap</p>
-        <p><i class="fa-solid fa-code"></i> Responsive Web Design</p>
-        <p><i class="fa-brands fa-js"></i> Java Script</p>
-        <p><i class="fa-brands fa-react"></i> React framework</p>
-        <p><i class="fa-brands fa-github"></i> Experience with GitHub</p>
-      </div>
-      <div className="col-md-6">
-      <h6>Personal skills :</h6>
-      <p>-Excellent communication Skills</p>
-      <p>-customer relationship Skills</p>
-      <p>-Strong teamwork and networking skills</p>
-      <p>-Confidence, ambition, determination and persistence</p>
-      <p>-Ability to accept criticism and move on</p>
-      </div>
-    </div>
+      <h3>Work Experience : </h3>
+      <h5 className=' fs-5'>- Front-end developer (React.JS)</h5>
+      <p>• H-TECH Modern Programming. (May 2024- Till Now) </p>
+      <h5 className=' fs-5'>- Medical Representative</h5>
+      <p>• MD dental. (Aug 2022 _ Aug 2023) </p>
+      <p>• Hexa pharma international. (April 2021 _ May 2022) </p>
+      <h5 className=' fs-5'>- Event Coordinator</h5>
+      <p>• Freelancing Job. (June 2017 – March 2021) </p>
+     
     </Fade>
     </div>
    

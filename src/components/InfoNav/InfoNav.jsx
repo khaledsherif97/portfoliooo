@@ -1,5 +1,5 @@
 import React from 'react'
-import proImg from '../../Assets/imges/IMG-20220329-WA0017.jpg'
+import proImg from '../../Assets/imges/ME.jpeg'
 import { Fade } from 'animation-react'
 
 const InfoNav = () => {
