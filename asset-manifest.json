@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfoliooo/static/css/main.9cc9a485.css",
-    "main.js": "/portfoliooo/static/js/main.dcdb6051.js",
+    "main.js": "/portfoliooo/static/js/main.921f5201.js",
     "static/js/1927.f2a499e8.chunk.js": "/portfoliooo/static/js/1927.f2a499e8.chunk.js",
     "static/js/7590.66e6ef13.chunk.js": "/portfoliooo/static/js/7590.66e6ef13.chunk.js",
     "static/js/6725.48fee2c7.chunk.js": "/portfoliooo/static/js/6725.48fee2c7.chunk.js",
@@ -87,7 +87,11 @@
     "static/media/m2.png": "/portfoliooo/static/media/m2.15a1e442829643351927.png",
     "static/media/p4.png": "/portfoliooo/static/media/p4.cfdd40e98419956a01c0.png",
     "static/media/chef8.png": "/portfoliooo/static/media/chef8.4c6e0b17d3061875a251.png",
+    "static/media/marc-2.png": "/portfoliooo/static/media/marc-2.3c5a8c40ac272426ecb9.png",
+    "static/media/marc-4.png": "/portfoliooo/static/media/marc-4.84f74f0e97f3026bba77.png",
+    "static/media/marc-3.png": "/portfoliooo/static/media/marc-3.4720df6f187aa53d584b.png",
     "static/media/d5.png": "/portfoliooo/static/media/d5.97904939c32e7e6a0e70.png",
+    "static/media/marc-5.png": "/portfoliooo/static/media/marc-5.0e589cdde66f2654df21.png",
     "static/media/chef5.png": "/portfoliooo/static/media/chef5.c4b25041752fd4f23ced.png",
     "static/media/chef7.png": "/portfoliooo/static/media/chef7.006a3fa77fe67abda974.png",
     "static/media/h2.png": "/portfoliooo/static/media/h2.ca5db54652c5702d8870.png",
@@ -96,6 +100,7 @@
     "static/media/Quote2.png": "/portfoliooo/static/media/Quote2.f1c71f2aa8986f30c9bb.png",
     "static/media/d4.png": "/portfoliooo/static/media/d4.74681c30ea7246523aec.png",
     "static/media/img.jpeg": "/portfoliooo/static/media/img.547838bde3a20805a219.jpeg",
+    "static/media/marc-1.png": "/portfoliooo/static/media/marc-1.dfec1da23c03616d6872.png",
     "static/media/e4.png": "/portfoliooo/static/media/e4.c9ab7881483c441fe56b.png",
     "static/media/meal4.png": "/portfoliooo/static/media/meal4.1dfa8361672986c97568.png",
     "static/media/meal1.png": "/portfoliooo/static/media/meal1.7855480ecf1526923edd.png",
@@ -106,6 +111,7 @@
     "static/media/fa-solid-900.ttf": "/portfoliooo/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
     "static/media/chef6.png": "/portfoliooo/static/media/chef6.aac7b625e25e5592f6a6.png",
     "static/media/p5.png": "/portfoliooo/static/media/p5.ec4068f1ea01b7bcc452.png",
+    "static/media/marc-6.png": "/portfoliooo/static/media/marc-6.6045bb896ae797ebcbb6.png",
     "static/media/d1.png": "/portfoliooo/static/media/d1.278ca1528eb8d0e7936e.png",
     "static/media/h6.png": "/portfoliooo/static/media/h6.11ac772a00a622b48f62.png",
     "static/media/Daniel-2.png": "/portfoliooo/static/media/Daniel-2.8ac153500bcc113e9a24.png",
@@ -124,7 +130,7 @@
     "static/media/h3.png": "/portfoliooo/static/media/h3.eecc98574879967b10dc.png",
     "static/media/e5.png": "/portfoliooo/static/media/e5.45f160588dfa4e223cfa.png",
     "static/media/fa-brands-400.woff2": "/portfoliooo/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
-    "static/media/IMG-20220329-WA0017.jpg": "/portfoliooo/static/media/IMG-20220329-WA0017.4ba2a520a259127888fe.jpg",
+    "static/media/ME.jpeg": "/portfoliooo/static/media/ME.1b71f1c7201d2ab6c77a.jpeg",
     "static/media/e8.png": "/portfoliooo/static/media/e8.66f0e39be55be884c453.png",
     "static/media/e6.png": "/portfoliooo/static/media/e6.ab32af0e0fc0c812a131.png",
     "static/media/d3.png": "/portfoliooo/static/media/d3.db11196b4c8b516cebbd.png",
@@ -152,7 +158,7 @@
     "static/media/slick.woff": "/portfoliooo/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/portfoliooo/index.html",
     "main.9cc9a485.css.map": "/portfoliooo/static/css/main.9cc9a485.css.map",
-    "main.dcdb6051.js.map": "/portfoliooo/static/js/main.dcdb6051.js.map",
+    "main.921f5201.js.map": "/portfoliooo/static/js/main.921f5201.js.map",
     "1927.f2a499e8.chunk.js.map": "/portfoliooo/static/js/1927.f2a499e8.chunk.js.map",
     "7590.66e6ef13.chunk.js.map": "/portfoliooo/static/js/7590.66e6ef13.chunk.js.map",
     "6725.48fee2c7.chunk.js.map": "/portfoliooo/static/js/6725.48fee2c7.chunk.js.map",
@@ -225,6 +231,6 @@
   },
   "entrypoints": [
     "static/css/main.9cc9a485.css",
-    "static/js/main.dcdb6051.js"
+    "static/js/main.921f5201.js"
   ]
 }
