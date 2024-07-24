@@ -65,6 +65,14 @@ import dd4 from "../../Assets/imges/dev/d4.png"
 import dd5 from "../../Assets/imges/dev/d5.png"
 import dd6 from "../../Assets/imges/dev/d6.png"
 import dd7 from "../../Assets/imges/dev/d7.png"
+
+import marc1 from "../../Assets/imges/marc/marc-1.png"
+import marc2 from "../../Assets/imges/marc/marc-2.png"
+import marc3 from "../../Assets/imges/marc/marc-3.png"
+import marc4 from "../../Assets/imges/marc/marc-4.png"
+import marc5 from "../../Assets/imges/marc/marc-5.png"
+import marc6 from "../../Assets/imges/marc/marc-6.png"
+
 import { Fade, Text } from 'animation-react'
 
 const Projects = () => {
@@ -96,6 +104,43 @@ const Projects = () => {
         option={""}
       /></h3>
     <Slider {...settings}>
+
+       {/*marc*/}
+       <div>
+        <div className="row my-2">
+          
+          <div className="col-md-10">
+          <Slider {...settings}>
+      <div>
+        <img src={marc1} className='w-100 rounded-3'/>
+      </div>
+      <div>
+        <img src={marc2} className='w-100 rounded-3'/>
+      </div>
+      <div>
+        <img src={marc3} className='w-100 rounded-3'/>
+      </div>
+      <div>
+        <img src={marc4} className='w-100 rounded-3'/>
+      </div>
+      <div>
+        <img src={marc5} className='w-100 rounded-3'/>
+      </div>
+      <div>
+        <img src={marc6} className='w-100 rounded-3'/>
+      </div>
+    
+      
+     
+    </Slider>
+    <a href='https://marc-eg.netlify.app/' target='_blank' className='btn btn-primary text-center w-100 mt-5'>Site Link </a>
+          </div>
+          <div className="col-md-2 my-auto">
+          <div className=' bg-body-secondary text-info text-center rounded-3 my-5 py-3'> <i class="fa-brands fa-react fs-1"></i><p>React</p></div>
+          </div>
+        </div>
+      </div>
+
       {/*Shifoo*/}
       <div>
         <div className="row my-2">

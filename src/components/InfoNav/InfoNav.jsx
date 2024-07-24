@@ -35,7 +35,7 @@ const InfoNav = () => {
   
     </div>
     <div className=' mx-auto w-50'>
-      <a href='Khaled Sherif Front_end CV .pdf' download="Khaled Sherif Front_end CV .pdf">
+      <a href='Khaled Sherif jun-2024 CV .pdf' download="Khaled Sherif jun-2024 CV .pdf">
     <button className=' btn btn-primary rounded-3 mb-2'> Download CV</button></a>
     </div>
     </div>
